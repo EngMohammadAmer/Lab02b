@@ -18,6 +18,6 @@ Kindly Review [my repl.it pages](https://my-first-page.engmohammadamer.repl.co/)
 
 # Table of contents
 
-- [growthmindset](Growth mindset.md)
+- [Growth mindset](Growth mindset.md)
 - [Behaviors](Behaviors.md)
 - [Summary](Summary.md)
