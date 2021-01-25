@@ -1,3 +1,6 @@
+[Home](Readme.md)
+
+
 # behaviour differances between fixed mindset and growth mindset
 
 when faced with **CHALLENGES** the fixed behaves to avoid and the growth mindset behaves to embrace
