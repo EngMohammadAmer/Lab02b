@@ -1,3 +1,5 @@
+[Home](Readme.dm)
+
 # SUMMARY
 
 so the person who have a *fixed mindset* will fails to reach full potintial.
