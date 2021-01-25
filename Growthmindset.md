@@ -1,4 +1,4 @@
-[Home](Readme.md)
+[Home](README.md)
 
 # Growth Mindset
 
